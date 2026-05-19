@@ -1,4 +1,4 @@
-# 💻 C Programming Practice Repository
+# 💻 C Programming 
 
 A collection of fundamental and intermediate-level **C programming problems** designed to strengthen problem-solving skills and core programming concepts.
 
